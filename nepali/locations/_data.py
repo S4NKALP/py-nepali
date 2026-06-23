@@ -3281,7 +3281,7 @@ _location_data = [
                         "municipality_type": "Municipality",
                     },
                     {
-                        "name": "Nalgaad Municipality",
+                        "name": "Nalgad Municipality",
                         "name_nepali": "नलगाड नगरपालिका",
                         "municipality_type": "Municipality",
                     },
